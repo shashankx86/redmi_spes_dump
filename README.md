@@ -17,5 +17,3 @@
 - Branch: qssi-user-11-RKQ1.211001.001-V13.0.9.0.RGCMIXM-release-keys
 - Repo: redmi_spes_dump
 
-
->Dumped by [Phoenix Firmware Dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
